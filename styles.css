@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+p{
+    font-size: 15px;
+    
+}
+
+#header{
+    background-color: #1d2126 ;
+    height: 80px;
+    line-height: 80px;
+}
+
+#menu li{
+    display: inline;
+    text-decoration: none;
+    color: #f6dddd;
+}
+
+#banner {
+    background-color:#3a454d ;
+    background-image: url(images/pic.png);
+    height: 660px;
+    color: #f6dddd;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center bottom;
+    line-height: 660px;
+}
+
+#banner h2{
+    font-size: 15px;
+}
+
+#welcome {
+    margin: auto 0px;
+}
+
+h3 {
+    font-size: 30px;
+    margin: 86px auto 65px 25px;
+    width: 100%;
+}
+#ourteam{
+    margin: 88px auto 100px auto;
+}
+#work{
+    background-color: #3a454d;
+    color: #f6dddd;
+}
+
+#features{
+    background-color: #3a454d;
+    color: #f6dddd;
+}
+
+#footer{
+    background-color: #3a454d;
+    height: 92px;
+    line-height: 92px;
+}
+
+.teamImg{
+    margin: 65px 30px 20px 0px;
+}
+
+#lastImg{
+    margin-right: 0px;
+}
+
+#lovelywork{
+    height: 175px;
+    width: 100%;
+    line-height: 175px;
+}
+#map {
+    background-color: yellowgreen;
+    background-image: url(images/pic14.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.workImg{
+    margin: auto 60px 30px auto;
+}
+
